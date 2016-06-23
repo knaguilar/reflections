@@ -1,0 +1,7 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: It recognizes the location and adds hidden files.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging are is middle ground before officially making and commiting a change to record. It allows you to bundle up multiple files that may go together with the option of choosing them out. 
