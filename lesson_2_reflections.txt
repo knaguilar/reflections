@@ -21,3 +21,7 @@ A: The lay out how the system works and how everything is connected, or in some 
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A: Merging two branches together allows you to combine code from two separate files into one while also keeping the additions and deletions consistent between the files. Its like that in the diagram because its taking the content from both points and making it into one.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: The pros of git automatically merging is that it saves time from having to check for one self and add the new additions into the file since the new additions could be all over a file. The con is that in the cases where the code conflicts, it could cause a problem in the code and you would have to fix it yourself. This is a pro for manual merge since you would know everything is safe since you added it yourself. The con is that it takes up a lot of time and effort.
