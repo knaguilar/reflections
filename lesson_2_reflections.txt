@@ -13,3 +13,7 @@ A: You can compare what you have in the staging area with what is already commit
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 A: Some situations when branches would be helpful would be when you're working in a group and each wants to try a different approach or each is adding a new feature to the main code but adding a few differences. In this case it would sort the history of who and when things were added.
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: The lay out how the system works and how everything is connected, or in some cases, not connected and why git works the way it does logically.
