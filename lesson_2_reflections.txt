@@ -9,3 +9,7 @@ A: The staging are is middle ground before officially making and commiting a cha
 Q: How can you use the staging area to make sure you have one commit per logical change?
 
 A: You can compare what you have in the staging area with what is already committed to see the changes you will be adding and if it is a logical change or too much. You can also compare it to the working directory to see if there are any newer changes for later.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: Some situations when branches would be helpful would be when you're working in a group and each wants to try a different approach or each is adding a new feature to the main code but adding a few differences. In this case it would sort the history of who and when things were added.
