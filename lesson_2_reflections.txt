@@ -17,3 +17,7 @@ A: Some situations when branches would be helpful would be when you're working i
 Q: How do the diagrams help you visualize the branch structure?
 
 A: The lay out how the system works and how everything is connected, or in some cases, not connected and why git works the way it does logically.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: Merging two branches together allows you to combine code from two separate files into one while also keeping the additions and deletions consistent between the files. Its like that in the diagram because its taking the content from both points and making it into one.
