@@ -4,4 +4,8 @@ A: It recognizes the location and adds hidden files.
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The staging are is middle ground before officially making and commiting a change to record. It allows you to bundle up multiple files that may go together with the option of choosing them out. 
+A: The staging are is middle ground before officially making and commiting a change to record. It allows you to bundle up multiple files that may go together with the option of choosing them out. 
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+A: You can compare what you have in the staging area with what is already committed to see the changes you will be adding and if it is a logical change or too much. You can also compare it to the working directory to see if there are any newer changes for later.
