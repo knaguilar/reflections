@@ -1,0 +1,3 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+
+A: You would want to use a remote repository when you are on a public computer or another computer not directly linked to your command line account. You would keep your work local when you have full access to your computer without a problem at the time you need to add something.
