@@ -13,3 +13,7 @@ A: Forks are obtaining a copy of a repository onto your GitHub account without h
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A: One benefit is that if you go offline for a bit you can always go back to where that state was before updating or adding something new. It allows you to keep track of your history.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A: Another way to collaborate without using Git and GitHub would be by getting in contact with the owner of the project and sending the code directly by email or some other online sharing service. It would be hard for a lot of people to collaborate since the person would have to go through each one and there would be no simple way to check if the new code would break the current content but it would be easier to just send and without any need to know how Git and GitHub work.
