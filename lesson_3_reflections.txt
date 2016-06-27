@@ -17,3 +17,7 @@ A: One benefit is that if you go offline for a bit you can always go back to whe
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 A: Another way to collaborate without using Git and GitHub would be by getting in contact with the owner of the project and sending the code directly by email or some other online sharing service. It would be hard for a lot of people to collaborate since the person would have to go through each one and there would be no simple way to check if the new code would break the current content but it would be easier to just send and without any need to know how Git and GitHub work.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A: You would want to make changes in a separate branch when you are working on an experimental project or feature and do not yet want to officially add it with the master branch. You would also want this like in the case of the easy mode asteroids where it's a game for yourself and not officially how the game should be played. Having the changes on the main branch does however, make you a collaborator where your work is shared with the world versus keeping it to yourself.
